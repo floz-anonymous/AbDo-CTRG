@@ -1,4 +1,4 @@
-# AbDo-CTRG
-AbDo-CT Dataset: We will release upon acceptance
+# AbDo-CTRG: A Dataset and Baseline for Abdominal CT Report Generation
+- AbDo-CT Dataset: We will release upon acceptance
 
-AbDo-RG: We will upload soon.
+- AbDo-RG Baseline: We will upload soon.
