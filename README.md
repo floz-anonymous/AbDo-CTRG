@@ -141,22 +141,7 @@ python data/preprocessing/preprocess.py \
 
 ### Training
 
-**Stage 1 — Autoregressive Pre-training:**
-```bash
-python train_stage1.py --config configs/stage1.yaml
-```
-
-**Stage 2 — Contrastive Alignment:**
-```bash
-python train_stage2.py --config configs/stage2.yaml \
-  --pretrained_encoder checkpoints/stage1.pth
-```
-
-**Stage 3 — Supervised Fine-Tuning:**
-```bash
-python train_stage3.py --config configs/stage3.yaml \
-  --pretrained_encoder checkpoints/stage2.pth \
-  --llm qwen1.5-1.8b   # or llama-3.1-8b
+to be filled.
 ```
 
 ### Evaluation
