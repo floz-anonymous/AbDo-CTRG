@@ -1,0 +1,20 @@
+Patient-wise Report
+
+FINDINGS:
+LIVER: Lesion/Mass detected across 3 slices (0007, 0023, 0024).
+SPLEEN: No focal abnormality detected.
+PANCREAS: Normal size, contour, and attenuation. No focal abnormality.
+KIDNEYS: Lesion/Mass detected across 2 slices (0026, 0028).
+GALLBLADDER: Normal size, contour, and attenuation. No focal abnormality.
+URETER: Small stone detected in the right ureter (Slice 0074).
+BLADDER: Possible lesion detected across 1 slice (Slice 0066).
+ADRENAL_GLAND: Normal size, contour, and attenuation. No focal abnormality.
+
+ADDITIONAL DETAILS:
+BOWEL: Hernia/Obstruction detected across 6 slices; Lesion/Diverticula detected across 2 slices.
+ASCITES: Detected across 2 slices (0014, 0015).
+RECTUM: Large amount of gas noted (Slices 0068, 0079), but no focal mass.
+PERITONEUM: Normal size, contour, and attenuation.
+PELVIS: Cyst detected across 1 slice (0063); Lesion/Mass detected across 3 slices (0065, 0066, 0076).
+HERNIA_REGION: Bowel-containing hernias detected across 5 slices.
+OTHER: Calcified structures/lymph nodes detected (Slices 0035, 0075); Prostate mass noted (Slice 0085).

@@ -1,0 +1,86 @@
+slice_id	findings
+slice_0001	No definite abnormality identified in this slice.
+slice_0002	No definite abnormality identified in this slice.
+slice_0003	No definite abnormality identified in this slice.
+slice_0004	No definite abnormality identified in this slice.
+slice_0005	No definite abnormality identified in this slice.
+slice_0006	No definite abnormality identified in this slice.
+slice_0007	There is a well-defined, rounded, hypodense lesion in the right upper quadrant, likely representing a liver lesion. The liver appears otherwise normal in density. The heart size is within normal limits. The mediastinum is unremarkable. The lungs are clear. The bony structures are intact.
+slice_0008	No definite abnormality identified in this slice.
+slice_0009	No definite abnormality identified in this slice.
+slice_0010	No definite abnormality identified in this slice.
+slice_0011	No definite abnormality identified in this slice.
+slice_0012	No definite abnormality identified in this slice.
+slice_0013	No definite abnormality identified in this slice.
+slice_0014	There is a large amount of free fluid in the abdomen, likely ascites. The liver appears normal in size and density. The spleen appears normal in size and density. The stomach is not well visualized due to the fluid. The kidneys are not well visualized due to the fluid. The bowel loops are not well visualized due to the fluid. The spine is normal.
+slice_0015	The liver appears to be somewhat enlarged, and there is a large amount of free fluid in the abdomen, likely ascites.
+slice_0016	No definite abnormality identified in this slice.
+slice_0017	No definite abnormality identified in this slice.
+slice_0018	No definite abnormality identified in this slice.
+slice_0019	No definite abnormality identified in this slice.
+slice_0020	No definite abnormality identified in this slice.
+slice_0021	No definite abnormality identified in this slice.
+slice_0022	No definite abnormality identified in this slice.
+slice_0023	There is a large, well-defined, hypodense lesion in the right upper quadrant, abutting the liver. The lesion appears to be causing some displacement of the liver.
+slice_0024	There is a large, heterogeneous mass in the right upper quadrant, likely representing a liver lesion. The lesion appears to be causing some displacement of the adjacent structures.
+slice_0025	No definite abnormality identified in this slice.
+slice_0026	There is a well-defined, rounded, hypodense lesion in the right kidney.
+slice_0027	No definite abnormality identified in this slice.
+slice_0028	There is a small, well-defined, hypodense lesion in the right kidney.
+slice_0029	No definite abnormality identified in this slice.
+slice_0030	No definite abnormality identified in this slice.
+slice_0031	No definite abnormality identified in this slice.
+slice_0032	No definite abnormality identified in this slice.
+slice_0033	No definite abnormality identified in this slice.
+slice_0034	No definite abnormality identified in this slice.
+slice_0035	There is a small, round, white structure (likely a lymph node) in the midline, near the level of the vertebral body.
+slice_0036	No definite abnormality identified in this slice.
+slice_0037	No definite abnormality identified in this slice.
+slice_0038	No definite abnormality identified in this slice.
+slice_0039	No definite abnormality identified in this slice.
+slice_0040	No definite abnormality identified in this slice.
+slice_0041	No definite abnormality identified in this slice.
+slice_0042	No definite abnormality identified in this slice.
+slice_0043	No definite abnormality identified in this slice.
+slice_0044	No definite abnormality identified in this slice.
+slice_0045	There is a bowel containing ventral hernia in the midline of the abdomen.
+slice_0046	There is a bowel containing ventral hernia in the right upper quadrant.
+slice_0047	There is evidence of bowel obstruction with dilated loops of bowel.
+slice_0048	There is a bowel containing hernia in the right lower quadrant.
+slice_0049	No definite abnormality identified in this slice.
+slice_0050	There is a bowel containing hernia in the right lower quadrant.
+slice_0051	There are multiple air-filled loops of bowel present in the abdomen. The bowel wall appears relatively normal in thickness. No obvious masses, abscesses, or other significant abnormalities are identified on this single slice.
+slice_0052	No definite abnormality identified in this slice.
+slice_0053	No definite abnormality identified in this slice.
+slice_0054	No definite abnormality identified in this slice.
+slice_0055	No definite abnormality identified in this slice.
+slice_0056	No definite abnormality identified in this slice.
+slice_0057	There is a small, round, well-defined, low-density lesion in the right lower quadrant, likely representing a small bowel diverticulum.
+slice_0058	There is a small, approximately 1.5 cm, well-defined, low-density lesion in the right lower quadrant, likely representing a small bowel diverticulum.
+slice_0059	No definite abnormality identified in this slice.
+slice_0060	No definite abnormality identified in this slice.
+slice_0061	No definite abnormality identified in this slice.
+slice_0062	No definite abnormality identified in this slice.
+slice_0063	There are multiple small, round, well-defined, low-density lesions scattered throughout the pelvis. These are most likely small cysts.
+slice_0064	There is a bowel containing hernia in the right inguinal region.
+slice_0065	There is a prominent, somewhat irregular, soft tissue density in the left pelvis. The exact nature of this is indeterminate on this single slice, but it warrants further investigation.
+slice_0066	There is a possible soft tissue density lesion in the right pelvis, near the bladder. Further evaluation is needed to characterize this finding.
+slice_0067	No definite abnormality identified in this slice.
+slice_0068	There is a large amount of gas within the rectum.
+slice_0069	There is a well-defined, round, hypodense lesion in the right inguinal region, measuring approximately 1.5 cm in diameter. The lesion is likely a lipoma.
+slice_0070	There is a well-defined, round, hypodense lesion in the right perirectal space, measuring approximately 1.2 cm in diameter.
+slice_0071	No definite abnormality identified in this slice.
+slice_0072	No definite abnormality identified in this slice.
+slice_0073	No definite abnormality identified in this slice.
+slice_0074	There is a small, round, hyperdense lesion in the right pelvis, likely representing a small stone in the right ureter.
+slice_0075	There is a calcified structure in the midline, likely representing a calcified lymph node or possibly a small, calcified mass. The bowel loops are unremarkable. No other obvious abnormalities are identified.
+slice_0076	There is a well-defined, rounded, heterogeneous mass in the right hemipelvis, measuring approximately 6.5 x 5.8 x 5.2 cm. The mass appears to be abutting the right acetabulum.
+slice_0077	No definite abnormality identified in this slice.
+slice_0078	No definite abnormality identified in this slice.
+slice_0079	There is a large amount of gas in the rectum.
+slice_0080	No definite abnormality identified in this slice.
+slice_0081	No definite abnormality identified in this slice.
+slice_0082	No definite abnormality identified in this slice.
+slice_0083	No definite abnormality identified in this slice.
+slice_0084	The image shows a cross-sectional view of the lower abdomen. There is a prominent, somewhat irregular structure in the midline, likely representing the urethra. The surrounding soft tissues appear normal. No other obvious abnormalities are identified.
+slice_0085	The image shows a cross-sectional view of the lower abdomen. There is a prominent, somewhat irregular, soft tissue mass in the midline, likely representing the prostate gland. The seminal vesicles are also visible. No other obvious abnormalities are identified in this single slice.

@@ -1,0 +1,160 @@
+slice_id	findings
+slice_0001	No definite abnormality identified in this slice.
+slice_0002	No definite abnormality identified in this slice.
+slice_0003	No definite abnormality identified in this slice.
+slice_0004	No definite abnormality identified in this slice.
+slice_0005	No definite abnormality identified in this slice.
+slice_0006	No definite abnormality identified in this slice.
+slice_0007	No definite abnormality identified in this slice.
+slice_0008	No definite abnormality identified in this slice.
+slice_0009	No definite abnormality identified in this slice.
+slice_0010	There is a well-defined, round, 3.5 cm mass in the left upper quadrant, likely representing a benign lesion. The aorta is unremarkable. No other significant abnormalities are identified in this single slice.
+slice_0011	There is a well-defined, round, 3.5 cm mass in the left upper quadrant, likely representing a benign or malignant lesion. The aorta is present. No other obvious abnormalities are identified.
+slice_0012	There is a well-defined, round, 2.5 cm mass in the left upper quadrant, likely representing a benign lesion.
+slice_0013	There is a well-defined, round, 2.5 cm lesion in the left upper quadrant, likely representing a benign or malignant process. The liver appears normal in size and contour. The aorta is unremarkable. The lungs are clear. No other obvious abnormalities are identified.
+slice_0014	No definite abnormality identified in this slice.
+slice_0015	No definite abnormality identified in this slice.
+slice_0016	No definite abnormality identified in this slice.
+slice_0017	No definite abnormality identified in this slice.
+slice_0018	No definite abnormality identified in this slice.
+slice_0019	No definite abnormality identified in this slice.
+slice_0020	No definite abnormality identified in this slice.
+slice_0021	No definite abnormality identified in this slice.
+slice_0022	No definite abnormality identified in this slice.
+slice_0023	No definite abnormality identified in this slice.
+slice_0024	No definite abnormality identified in this slice.
+slice_0025	No definite abnormality identified in this slice.
+slice_0026	No definite abnormality identified in this slice.
+slice_0027	No definite abnormality identified in this slice.
+slice_0028	No definite abnormality identified in this slice.
+slice_0029	No definite abnormality identified in this slice.
+slice_0030	No definite abnormality identified in this slice.
+slice_0031	No definite abnormality identified in this slice.
+slice_0032	There is a 1.4 cm nodule in the right lung.
+slice_0033	There is a 1.2 cm nodule in the right lung.
+slice_0034	There is a 1.2 cm nodule in the right lung.
+slice_0035	There is a 1.2 cm nodule in the left lung.
+slice_0036	There is a 1.2 cm nodule in the left lung.
+slice_0037	There is a well-defined, round, 1.2 cm lesion in the left lung.
+slice_0038	There is a well-defined, round, hypodense lesion in the left lung field.
+slice_0039	There is a well-defined, round, hypodense lesion in the left upper lobe of the lung.
+slice_0040	No definite abnormality identified in this slice.
+slice_0041	No definite abnormality identified in this slice.
+slice_0042	No definite abnormality identified in this slice.
+slice_0043	No definite abnormality identified in this slice.
+slice_0044	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst or other fluid-filled structure. The liver appears normal in size and contour. The heart size is within normal limits. The mediastinum is unremarkable. No acute findings are identified.
+slice_0045	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst.
+slice_0046	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst. The left upper quadrant also shows a similar lesion.
+slice_0047	There is a well-defined, rounded, hypodense lesion in the right upper quadrant, likely representing a cyst or fluid collection.
+slice_0048	There is a well-defined, rounded, hypodense lesion in the right upper quadrant, likely representing a cyst or other fluid-filled structure. The left upper quadrant shows a similar, though less distinct, hypodense lesion.
+slice_0049	No definite abnormality identified in this slice.
+slice_0050	There is a well-defined, rounded, hypodense lesion in the right upper lobe of the lung. There is also a similar lesion in the left upper lobe of the lung.
+slice_0051	There are two well-defined, rounded, low-density lesions within the right and left lobes of the liver.
+slice_0052	There are two well-defined, rounded, low-density lesions within the liver. These lesions are likely cysts or hemangiomas.
+slice_0053	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst. There is also a similar lesion in the left upper quadrant.
+slice_0054	There are two well-defined, round, low-density lesions in the liver.
+slice_0055	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst. There is also a similar lesion in the left upper quadrant.
+slice_0056	There is a well-defined, rounded, hypodense lesion in the right upper lobe of the lung. There is also a similar lesion in the left upper lobe of the lung.
+slice_0057	There is a well-defined, round, hypodense lesion in the right upper quadrant, likely representing a cyst. The left upper quadrant also shows a similar lesion.
+slice_0058	There is a large, well-defined, hypodense lesion in the right upper quadrant of the abdomen, likely representing a large cyst or hemangioma. The left upper quadrant shows a similar, but smaller, hypodense lesion, also likely a cyst or hemangioma. The heart size appears normal. The mediastinum is unremarkable. No acute findings are identified.
+slice_0059	There is a large, well-defined, hypodense lesion in the right upper quadrant, likely representing a large cyst or hemangioma. There is also a smaller, hypodense lesion in the left upper quadrant, which could represent a cyst or other fluid-filled structure. The heart size appears normal. The lungs are clear.
+slice_0060	No definite abnormality identified in this slice.
+slice_0061	There are two well-defined, round, low-density lesions within the liver. These are likely cysts.
+slice_0062	No definite abnormality identified in this slice.
+slice_0063	There are two well-defined, round, low-density lesions within the liver. These are likely cysts.
+slice_0064	No definite abnormality identified in this slice.
+slice_0065	There are two well-defined, round, low-density lesions within the liver. These lesions are likely cysts.
+slice_0066	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No other obvious abnormalities are identified.
+slice_0067	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No acute findings are identified.
+slice_0068	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No acute findings are identified.
+slice_0069	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No acute findings are identified.
+slice_0070	No definite abnormality identified in this slice.
+slice_0071	No definite abnormality identified in this slice.
+slice_0072	No definite abnormality identified in this slice.
+slice_0073	There is a well-defined, round, low-density lesion in the left upper quadrant, likely representing a splenic cyst or hemangioma. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No other obvious abnormalities are identified.
+slice_0074	There is a well-defined, round, hypodense lesion in the left adrenal gland.
+slice_0075	The liver appears to be of normal size and density. The spleen appears to be of normal size and density. The heart size is within normal limits. The mediastinum is unremarkable. No obvious masses, effusions, or other significant abnormalities are identified in this single axial slice.
+slice_0076	The liver appears normal in size and density. The spleen appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No obvious acute findings are identified.
+slice_0077	No definite abnormality identified in this slice.
+slice_0078	No definite abnormality identified in this slice.
+slice_0079	No definite abnormality identified in this slice.
+slice_0080	No definite abnormality identified in this slice.
+slice_0081	No definite abnormality identified in this slice.
+slice_0082	No definite abnormality identified in this slice.
+slice_0083	No definite abnormality identified in this slice.
+slice_0084	No definite abnormality identified in this slice.
+slice_0085	No definite abnormality identified in this slice.
+slice_0086	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The mediastinum is unremarkable. No acute findings are identified.
+slice_0087	No definite abnormality identified in this slice.
+slice_0088	No definite abnormality identified in this slice.
+slice_0089	No definite abnormality identified in this slice.
+slice_0090	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The aorta is unremarkable. The lungs are clear. No other obvious abnormalities are identified.
+slice_0091	There is a well-defined, round, hypodense lesion in the left adrenal gland.
+slice_0092	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The heart size is within normal limits. The aorta is unremarkable. The lungs are clear. No other obvious abnormalities are identified.
+slice_0093	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst or fluid collection. The liver appears normal in size and density. The spleen is unremarkable. The kidneys are not well visualized in this slice. The aorta is present. The lungs are clear.
+slice_0094	There is a well-defined, round, hypodense lesion in the left atrium, measuring approximately 3.5 cm in diameter.
+slice_0095	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst. The liver appears normal in size and density. The spleen is unremarkable. The aorta and other mediastinal structures are normal. No acute findings are identified.
+slice_0096	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst or other fluid-filled structure. The liver appears normal in size and density. The spleen is unremarkable. The lungs are clear. The aorta is unremarkable. The bony structures are intact.
+slice_0097	There is a well-defined, round, hypodense lesion in the left upper quadrant, likely representing a cyst or other fluid-filled structure. The liver appears normal in size and density. The lungs are clear. The heart size is within normal limits. The aorta is unremarkable. No obvious bowel abnormalities are seen.
+slice_0098	No definite abnormality identified in this slice.
+slice_0099	No definite abnormality identified in this slice.
+slice_0100	No definite abnormality identified in this slice.
+slice_0101	No definite abnormality identified in this slice.
+slice_0102	No definite abnormality identified in this slice.
+slice_0103	No definite abnormality identified in this slice.
+slice_0104	No definite abnormality identified in this slice.
+slice_0105	No definite abnormality identified in this slice.
+slice_0106	No definite abnormality identified in this slice.
+slice_0107	No definite abnormality identified in this slice.
+slice_0108	No definite abnormality identified in this slice.
+slice_0109	No definite abnormality identified in this slice.
+slice_0110	No definite abnormality identified in this slice.
+slice_0111	No definite abnormality identified in this slice.
+slice_0112	No definite abnormality identified in this slice.
+slice_0113	No definite abnormality identified in this slice.
+slice_0114	No definite abnormality identified in this slice.
+slice_0115	No definite abnormality identified in this slice.
+slice_0116	No definite abnormality identified in this slice.
+slice_0117	There is a hypodense lesion in the left lung field.
+slice_0118	There is a well-defined, round, hypodense lesion in the left lung field.
+slice_0119	There is a well-defined, rounded, hypodense lesion in the left upper quadrant, likely representing a cyst or fluid collection. The liver appears normal in size and density. The spleen appears normal in size and density. The aorta is unremarkable. The bony structures are intact.
+slice_0120	There is a well-defined, rounded, hypodense lesion in the left upper quadrant, likely representing a cyst or fluid collection. The liver appears normal in size and density. The spleen appears normal in size and density. The aorta is unremarkable. The bony structures are intact.
+slice_0121	There is a possible small pleural effusion in the left hemithorax.
+slice_0122	There is a possible small, ill-defined hypodense lesion in the left lobe of the liver.
+slice_0123	There is a possible small amount of free fluid in the left upper quadrant.
+slice_0124	There is a large amount of free fluid in the left upper quadrant, likely representing ascites. The liver appears normal in size and density. The stomach is present. The aorta and other abdominal structures are visible.
+slice_0125	No definite abnormality identified in this slice.
+slice_0126	No definite abnormality identified in this slice.
+slice_0127	No definite abnormality identified in this slice.
+slice_0128	There is a possible small amount of free fluid in the left upper quadrant, likely representing ascites. The liver and spleen appear normal in size and density. The bowel loops are unremarkable.
+slice_0129	There is a possible small amount of free fluid in the left upper quadrant, likely representing ascites. The liver appears normal in size and density. The stomach is present. The aorta and other mediastinal structures are unremarkable. No obvious bowel obstruction or other significant pathology is identified.
+slice_0130	No definite abnormality identified in this slice.
+slice_0131	No definite abnormality identified in this slice.
+slice_0132	No definite abnormality identified in this slice.
+slice_0133	No definite abnormality identified in this slice.
+slice_0134	There is a possible small amount of free fluid in the left upper quadrant.
+slice_0135	There is a possible small amount of free fluid in the left upper quadrant.
+slice_0136	There is a possible small amount of free fluid in the left upper quadrant.
+slice_0137	There is a possible small amount of free fluid in the left upper quadrant, likely representing ascites. The liver appears normal in size and density. The spleen appears normal in size and density. The pancreas is not well visualized. The bowel loops are unremarkable. The aorta and vena cava are normal in caliber. No obvious masses or significant abnormalities are seen.
+slice_0138	There is a possible small amount of free fluid in the left upper quadrant.
+slice_0139	No definite abnormality identified in this slice.
+slice_0140	No definite abnormality identified in this slice.
+slice_0141	No definite abnormality identified in this slice.
+slice_0142	No definite abnormality identified in this slice.
+slice_0143	No definite abnormality identified in this slice.
+slice_0144	No definite abnormality identified in this slice.
+slice_0145	No definite abnormality identified in this slice.
+slice_0146	No definite abnormality identified in this slice.
+slice_0147	No definite abnormality identified in this slice.
+slice_0148	No definite abnormality identified in this slice.
+slice_0149	No definite abnormality identified in this slice.
+slice_0150	No definite abnormality identified in this slice.
+slice_0151	No definite abnormality identified in this slice.
+slice_0152	No definite abnormality identified in this slice.
+slice_0153	No definite abnormality identified in this slice.
+slice_0154	No definite abnormality identified in this slice.
+slice_0155	No definite abnormality identified in this slice.
+slice_0156	No definite abnormality identified in this slice.
+slice_0157	No definite abnormality identified in this slice.
+slice_0158	No definite abnormality identified in this slice.
+slice_0159	No definite abnormality identified in this slice.

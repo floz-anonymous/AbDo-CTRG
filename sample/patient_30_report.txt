@@ -1,0 +1,20 @@
+Patient-wise Report
+
+FINDINGS:
+LIVER: Lesion/Cyst detected across 7 slices (0051, 0052, 0054, 0061, 0063, 0065, 0122).
+SPLEEN: Possible cystic lesion/hemangioma detected across 1 slice (0073).
+PANCREAS: Normal size, contour, and attenuation. No focal abnormality.
+KIDNEYS: No focal abnormality detected.
+GALLBLADDER: Normal size, contour, and attenuation. No focal abnormality.
+URETER: Normal size, contour, and attenuation. No focal abnormality.
+BLADDER: No focal abnormality detected.
+ADRENAL_GLAND: Hypodense lesion detected across 2 slices (0074, 0091) in the left adrenal gland.
+
+ADDITIONAL DETAILS:
+LUNGS: Pulmonary nodules/lesions detected across 12 slices (0032–0039, 0050, 0056, 0117, 0118).
+HEART/MEDIASTINUM: Possible hypodense lesion in the left atrium detected in slice 0094.
+BOWEL: No definite bowel obstruction or focal bowel abnormality detected.
+PERITONEUM: Free fluid/ascites detected across 9 slices (0123, 0124, 0128, 0129, 0134, 0135, 0136, 0137, 0138).
+PELVIS: No definite abnormality detected.
+HERNIA_REGION: No focal abnormality detected.
+LEFT_UPPER_QUADRANT: Multiple cysts/masses noted across 18 slices (0010–0013, 0046, 0048, 0053, 0055, 0057, 0058, 0059, 0066–0069, 0086, 0090, 0092, 0093, 0095, 0096, 0097, 0119, 0120).

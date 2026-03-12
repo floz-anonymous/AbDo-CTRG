@@ -1,0 +1,11 @@
+Patient 1 Organ Volumes (ml):
+Liver Ml: 1612.87
+Spleen Ml: 615.56
+Pancreas Ml: 73.05
+Kidney Left Ml: 128.81
+Kidney Right Ml: 139.74
+Gallbladder Ml: 11.5
+Urinary Bladder Ml: 71.27
+Adrenal Gland Left Ml: 2.51
+Adrenal Gland Right Ml: 2.64
+
