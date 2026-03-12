@@ -86,7 +86,7 @@ Stage 3: Diagnostic-Guided Supervised Fine-Tuning (LLM + classification branch)
 - LLM decoder: Qwen1.5-1.8B (for AbdomenAtlas-8K) or Llama-3.1-8B (for AbdomenAtlas 3.0)
 
 ---
-
+<!--
 ## Results
 
 ### Comparison with State-of-the-Art on AbDo-CT
@@ -100,7 +100,7 @@ Stage 3: Diagnostic-Guided Supervised Fine-Tuning (LLM + classification branch)
 | **AbDo-RG (Ours)** | **0.588** | **0.364** | **0.281** | **0.479** | **0.336** | **0.437** |
 
 ---
-
+-->
 ## Repository Structure
 
 ```
