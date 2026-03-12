@@ -42,7 +42,7 @@ AbDo-CT provides annotations at two levels:
 ### Organs Covered
 
 Liver · Spleen · Pancreas · Kidneys (L/R) · Gallbladder · Urinary Bladder · Adrenal Glands (L/R)
-
+<!--
 ### Comparison with Existing Datasets
 
 | Dataset | Modality | Vol. Report | Slice Report | Multi-organ | Volume Measure | Task |
@@ -55,7 +55,7 @@ Liver · Spleen · Pancreas · Kidneys (L/R) · Gallbladder · Urinary Bladder �
 | **AbDo-CT (Ours)** | CT | ✓ | ✓ | Multi-organ | ✓ | RG |
 
 ---
-
+-->
 ## Method: AbDo-RG
 
 AbDo-RG is a progressive three-stage vision–language framework for CT report generation.
