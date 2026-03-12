@@ -3,11 +3,11 @@
 > **ECCV 2026 Submission #14630**  
 > Anonymous authors — code and dataset will be released upon acceptance.
 
-[![Paper](https://img.shields.io/badge/Paper-ECCV%202026-blue)](https://anonymous.4open.science/r/AbDo-CTRG)
+<!--[![Paper](https://img.shields.io/badge/Paper-ECCV%202026-blue)](https://anonymous.4open.science/r/AbDo-CTRG)
 [![Dataset](https://img.shields.io/badge/Dataset-AbDo--CT-green)]()
 [![License](https://img.shields.io/badge/License-TBD-lightgrey)]()
 
----
+----->
 
 ## Overview
 
