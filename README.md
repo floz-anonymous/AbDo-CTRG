@@ -152,7 +152,7 @@ python evaluate.py \
   --dataset abdo_ct \
   --metrics bleu rouge meteor cider f1
 ```
-
+<!--
 ---
 
 ## Annotation Protocol
@@ -184,5 +184,5 @@ Full annotation was completed in ~84 days (vs. an estimated 200 days for fully m
 Data collected and annotated at Dr. Naresh Imaging Center, Hanumangarh Town, Rajasthan, India, with IRB approval. We thank the participating radiologists and clinical specialists for their extensive annotation efforts.
 
 ---
-
+-->
 *Dataset and code will be made publicly available upon paper acceptance.*
